@@ -2,6 +2,23 @@
 
 ### My Portfoilo
 
+
+#### OKX 
+OKX is an innovative cryptocurrency exchange with advanced financial services.
+
+
+### Chief Securities Litmited
+
+### Starbucks
+
+### Side Projects And Voluteer Contribution
+
+
+### Tips
+
+### Earth Hero
+
+--
 <!--
 **wadegraduate/wadegraduate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
