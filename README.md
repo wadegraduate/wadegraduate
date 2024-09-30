@@ -9,9 +9,9 @@
 <p>OKX is an innovative cryptocurrency exchange offering advanced financial services.</p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
-    <img src="./Assets/OKX/OKX Screenshot1.PNG" width="300" height="600"/>
-    <img src="./Assets/OKX/OKX Screenshot2.PNG" width="300" height="600"/>
-    <img src="./Assets/OKX/OKX Screenshot3.PNG" width="300" height="600"/>
+    <img src="./Assets/OKX/OKX Screenshot1.PNG" width="275" height="550"/>
+    <img src="./Assets/OKX/OKX Screenshot2.PNG" width="275" height="550"/>
+    <img src="./Assets/OKX/OKX Screenshot3.PNG" width="275" height="550"/>
 </div>
 <br>
 
@@ -19,9 +19,9 @@
 <p>A robust platform for financial services and securities trading.</p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
-    <img src="./Assets/Chief/Chief ScreenShot1.PNG" width="300" height="600"/>
-    <img src="./Assets/Chief/Chief ScreenShot2.PNG" width="300" height="600"/>
-    <img src="./Assets/Chief/Chief ScreenShot3.PNG" width="300" height="600"/>
+    <img src="./Assets/Chief/Chief ScreenShot1.PNG" width="275" height="550"/>
+    <img src="./Assets/Chief/Chief ScreenShot2.PNG" width="275" height="550"/>
+    <img src="./Assets/Chief/Chief ScreenShot3.PNG" width="275" height="550"/>
 </div>
 <br>
 
@@ -31,19 +31,19 @@
 <p>An intuitive app for calculating and managing tips.</p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
-    <img src="./Assets/Tips/Tip Screenshot 1.png" width="300" height="600"/>
-    <img src="./Assets/Tips/Tip Screenshot 2.PNG" width="300" height="600"/>
-    <img src="./Assets/Tips/Tip Screenshot 3.PNG" width="300" height="600"/>
-    <img src="./Assets/Tips/Tip Screenshot 4.PNG" width="300" height="600"/>
+    <img src="./Assets/Tips/Tip Screenshot 1.png" width="275" height="550"/>
+    <img src="./Assets/Tips/Tip Screenshot 2.PNG" width="275" height="550"/>
+    <img src="./Assets/Tips/Tip Screenshot 3.PNG" width="275" height="550"/>
+    <img src="./Assets/Tips/Tip Screenshot 4.PNG" width="275" height="550"/>
 </div>
 <br>
 
 <h3>Earth Hero</h3>
 <p>Empowering users to make eco-friendly choices and track their environmental impact.</p>
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
-    <img src="./Assets/EarthHero/EarthHero ScreenShot1.PNG" width="300" height="600"/>
-    <img src="./Assets/EarthHero/EarthHero ScreenShot2.PNG" width="300" height="600"/>
-    <img src="./Assets/EarthHero/EarthHero ScreenShot3.PNG" width="300" height="600"/>
+    <img src="./Assets/EarthHero/EarthHero ScreenShot1.PNG" width="275" height="550"/>
+    <img src="./Assets/EarthHero/EarthHero ScreenShot2.PNG" width="275" height="550"/>
+    <img src="./Assets/EarthHero/EarthHero ScreenShot3.PNG" width="275" height="550"/>
 </div>
 <br>
 
