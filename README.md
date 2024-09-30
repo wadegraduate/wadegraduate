@@ -1,6 +1,6 @@
-## Hi there 👋 
-
-I'm a passionate developer with experience in cryptocurrency exchanges, financial services, and mobile app development. Here's a showcase of some of my recent projects:
+ <h1>👋 Hi, I'm Wade</h1>
+    
+ <p>I'm a passionate developer with experience in cryptocurrency exchanges, financial services, and mobile app development. Here's a showcase of some of my recent projects:</p>
 
 ### My Portfoilo
 
