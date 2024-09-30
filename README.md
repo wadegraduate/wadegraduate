@@ -2,21 +2,44 @@
 
 ### My Portfoilo
 
-
 #### OKX 
 OKX is an innovative cryptocurrency exchange with advanced financial services.
 
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+    <img src="./Assets/OKX/OKX Screenshot1.PNG" width="200" height="400"/>
+    <img src="./Assets/OKX/OKX Screenshot2.PNG" width="200" height="400"/>
+    <img src="./Assets/OKX/OKX Screenshot3.PNG" width="200" height="400"/>
+</div>
+<br>
 
 ### Chief Securities Litmited
 
-### Starbucks
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+    <img src="./Assets/Chief/Chief ScreenShot1.PNG" width="200" height="400"/>
+    <img src="./Assets/Chief/Chief ScreenShot2.PNG" width="200" height="400"/>
+    <img src="./Assets/Chief/Chief ScreenShot3.PNG" width="200" height="400"/>
+</div>
+<br>
 
 ### Side Projects And Voluteer Contribution
 
-
 ### Tips
 
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+    <img src="./Assets/Tips/Tip Screenshot 1.png" width="200" height="400"/>
+    <img src="./Assets/Tips/Tip Screenshot 2.PNG" width="200" height="400"/>
+    <img src="./Assets/Tips/Tip Screenshot 3.PNG" width="200" height="400"/>
+    <img src="./Assets/Tips/Tip Screenshot 4.PNG" width="200" height="400"/>
+</div>
+<br>
+
 ### Earth Hero
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+    <img src="./Assets/EarthHero/EarthHero ScreenShot1.PNG" width="200" height="400"/>
+    <img src="./Assets/EarthHero/EarthHero ScreenShot2.PNG" width="200" height="400"/>
+    <img src="./Assets/EarthHero/EarthHero ScreenShot3.PNG" width="200" height="400"/>
+</div>
+<br>
 
 --
 <!--
