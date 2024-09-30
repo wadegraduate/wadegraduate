@@ -1,9 +1,12 @@
 ## Hi there 👋 
 
+I'm a passionate developer with experience in cryptocurrency exchanges, financial services, and mobile app development. Here's a showcase of some of my recent projects:
+
 ### My Portfoilo
 
-#### OKX 
-OKX is an innovative cryptocurrency exchange with advanced financial services.
+
+<h2>💹 OKX - Cryptocurrency Exchange</h2>
+<p>OKX is an innovative cryptocurrency exchange offering advanced financial services.</p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
     <img src="./Assets/OKX/OKX Screenshot1.PNG" width="200" height="400"/>
@@ -12,7 +15,8 @@ OKX is an innovative cryptocurrency exchange with advanced financial services.
 </div>
 <br>
 
-### Chief Securities Litmited
+<h2>📊 Chief Securities Limited</h2>
+<p>A robust platform for financial services and securities trading.</p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
     <img src="./Assets/Chief/Chief ScreenShot1.PNG" width="200" height="400"/>
@@ -21,9 +25,10 @@ OKX is an innovative cryptocurrency exchange with advanced financial services.
 </div>
 <br>
 
-### Side Projects And Voluteer Contribution
+<h2>🌱 Side Projects and Volunteer Contributions</h2>
 
-### Tips
+<h3>Tips</h3>
+<p>An intuitive app for calculating and managing tips.</p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
     <img src="./Assets/Tips/Tip Screenshot 1.png" width="200" height="400"/>
@@ -33,7 +38,8 @@ OKX is an innovative cryptocurrency exchange with advanced financial services.
 </div>
 <br>
 
-### Earth Hero
+<h3>Earth Hero</h3>
+<p>Empowering users to make eco-friendly choices and track their environmental impact.</p>
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
     <img src="./Assets/EarthHero/EarthHero ScreenShot1.PNG" width="200" height="400"/>
     <img src="./Assets/EarthHero/EarthHero ScreenShot2.PNG" width="200" height="400"/>
@@ -42,39 +48,4 @@ OKX is an innovative cryptocurrency exchange with advanced financial services.
 <br>
 
 --
-<!--
-**wadegraduate/wadegraduate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-//I'm Wade, an iOS software Engineer located at Toronto. I have 5+ years of experience in iOS mobile development and my expertise lies in iOS skills and its knowledge.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-My past projects 
-
-Tips
-
-OKX
-
-Chief Securities Limited
-
-Mtel Solutions
-
-Starbucks
-
-McDonalds
-
-
-
--->
